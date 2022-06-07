@@ -1,13 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;                  // ファイル読み込みに必要です
-using System.Linq;
-using System.Text;
-using System.Text.Encodings.Web;
-using System.Text.Json;
-using System.Text.Json.Serialization;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
 
 namespace clsJson
 {
