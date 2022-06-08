@@ -1,0 +1,1 @@
+pyinstaller VoiceLink_VoiceVo.pyw --onefile --windowed
