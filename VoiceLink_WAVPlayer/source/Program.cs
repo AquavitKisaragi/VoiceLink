@@ -12,6 +12,7 @@ class Program
         string path = @""+ AppDomain.CurrentDomain.BaseDirectory + "\\VoiceData\\" + fileName + ".wav";
         if (File.Exists(path) == false) { return -1; }
         SoundPlayer wavePlayer = new SoundPlayer(path);
+        wavePlayer.Play();
         wavePlayer.PlaySync();
         return 0;
     }
