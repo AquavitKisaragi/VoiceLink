@@ -1,0 +1,13 @@
+{
+  "text": "アプリ更新しました",
+  "talk": true,
+  "speaker": 0,
+  "speedScale": 0.62,
+  "pitchScale": 0,
+  "intonationScale": 1,
+  "volumeScale": 1,
+  "prePhonemeLength": 0.1,
+  "postPhonemeLength": 0.1,
+  "outputSamplingRate": 24000,
+  "outputStereo": false
+}
